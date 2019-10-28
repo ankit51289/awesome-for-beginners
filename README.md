@@ -34,6 +34,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Scala](#scala)
 - [TypeScript](#typescript)
 - [Swift](#https://swift.org/documentation/)
+- [Html]
 ## .NET
 
 - [Shouldly](https://github.com/shouldly/shouldly/labels/Jump-In) _(label: Jump-In)_ <br> Should testing for .net - the way Asserting *Should* be!
